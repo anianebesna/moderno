@@ -7,11 +7,11 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?ekvkqj');
-  src:  url('../fonts/icomoon.eot?ekvkqj#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?ekvkqj') format('truetype'),
-    url('../fonts/icomoon.woff?ekvkqj') format('woff'),
-    url('../fonts/icomoon.svg?ekvkqj#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?ficnb1');
+  src:  url('../fonts/icomoon.eot?ficnb1#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ficnb1') format('truetype'),
+    url('../fonts/icomoon.woff?ficnb1') format('woff'),
+    url('../fonts/icomoon.svg?ficnb1#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -47,6 +47,9 @@
 .icon-shopping-cart:before {
   content: "\f07a";
 }
+.icon-heart-o:before {
+  content: "\f08a";
+}
 .icon-phone:before {
   content: "\f095";
 }
@@ -55,6 +58,9 @@
 }
 .icon-unsorted:before {
   content: "\f0dc";
+}
+.icon-comment-o:before {
+  content: "\f0e5";
 }
 .icon-bolt:before {
   content: "\f0e7";
